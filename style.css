@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    /* any comments */
+    font-size: 24px;
+    background-color: brown;
+
+a {
+    font-size: 50px;
+
+}
+
+}
+a:hover {
+    border-bottom: dotted blue 4px;
+}
+
+a:visited {
+    color: red;
+}
+
+
+
+.ragraph-red {
+font-size: 24px;
+background-color: red;
+padding-bottom: 2px;
+
+}
